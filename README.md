@@ -66,22 +66,22 @@ I'm following the 6-step problem-solving strategy by **Anthony D. Mays** (former
 ## 🗂️ Folder Structure
 
 Dsa-journey/
-├── arrays/
-├── strings/
-├── linked-lists/
-├── hashmaps-and-sets/
-├── stacks-and-queues/
-├── two-pointers/
-├── greedy/
-├── heaps/
-├── bitwise/
-├── recursion-and-backtracking/
-├── trees/
-├── dp/
-├── graphs/
-├── union-find/
-├── tries/
-Each folder contains solutions in `.cpp` and/or `.py` format with:
+- `arrays/`  
+- `strings/`  
+- `linked-lists/`  
+- `hashmaps-and-sets/`  
+- `stacks-and-queues/`  
+- `two-pointers/`  
+- `greedy/`  
+- `heaps/`  
+- `bitwise/`  
+- `recursion-and-backtracking/`  
+- `trees/`  
+- `dp/`  
+- `graphs/`  
+- `union-find/`  
+- `tries/`  
+Each folder contains solutions in `.cpp` format with:
 
 * Problem name
 * Problem link
@@ -101,7 +101,7 @@ Each folder contains solutions in `.cpp` and/or `.py` format with:
 ## 💻 Platforms Used
 
 * [LeetCode](https://leetcode.com/)
-* [CodeNinjas]
+* [CodeNinjas](https://www.codingninjas.com/)
 
 ---
 
