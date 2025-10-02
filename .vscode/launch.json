@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "checkPalin",
+            "request": "launch",
+            "mainClass": "strings.checkPalin",
+            "projectName": "DSA_80b20012"
+        }
+    ]
+}

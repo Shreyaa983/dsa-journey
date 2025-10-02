@@ -155,6 +155,10 @@ int main()
     pq.push(5);
     pq.push(15);
     pq.push(10);    
+    for (int i = 0; i < 3; i++){
+        cout<<pq.top()<<" ";
+        pq.pop();
+    }
     cout<<"Top element is: "<<pq.top()<<endl;
     pq.pop();
     cout<<"Top element is: "<<pq.top()<<endl;
