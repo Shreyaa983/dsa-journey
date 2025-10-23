@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
+            "name": "Linear",
+            "request": "launch",
+            "mainClass": "Linear",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
             "name": "checkPalin",
             "request": "launch",
             "mainClass": "strings.checkPalin",
