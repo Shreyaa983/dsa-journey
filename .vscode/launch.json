@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bound",
+            "request": "launch",
+            "mainClass": "Bound",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
+            "name": "Selection",
+            "request": "launch",
+            "mainClass": "sorting.Selection",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
+            "name": "Bubble",
+            "request": "launch",
+            "mainClass": "sorting.Bubble",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
             "name": "BinarySearch",
             "request": "launch",
             "mainClass": "BinarySearch",
