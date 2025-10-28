@@ -1,3 +1,4 @@
+//in optimized alog: add a flag, for checking is it is swapped.
 package sorting;
 import java.util.*;
 public class Bubble {

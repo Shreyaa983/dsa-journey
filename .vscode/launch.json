@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Insertion",
+            "request": "launch",
+            "mainClass": "sorting.Insertion",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
             "name": "Bound",
             "request": "launch",
             "mainClass": "Bound",
