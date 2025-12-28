@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Lecturefive",
+            "request": "launch",
+            "mainClass": "Lecturefive",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
+            "name": "Lecturefour",
+            "request": "launch",
+            "mainClass": "Lecturefour",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
+            "name": "Lecturethree",
+            "request": "launch",
+            "mainClass": "Lecturethree",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
+            "name": "Lectureone",
+            "request": "launch",
+            "mainClass": "Lectureone",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
+            "name": "Quick",
+            "request": "launch",
+            "mainClass": "sorting.Quick",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "sorting.MergeSort",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "sorting.Sorting",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
             "name": "Merge",
             "request": "launch",
             "mainClass": "sorting.Merge",
