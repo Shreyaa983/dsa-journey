@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PatternFour",
+            "request": "launch",
+            "mainClass": "PatternFour",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
+            "name": "PatternThree",
+            "request": "launch",
+            "mainClass": "PatternThree",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
+            "name": "PatternTwo",
+            "request": "launch",
+            "mainClass": "PatternTwo",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "DSA_80b20012"
+        },
+        {
+            "type": "java",
             "name": "Lecturefive",
             "request": "launch",
             "mainClass": "Lecturefive",
